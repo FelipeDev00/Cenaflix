@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/User/.m2/repository/org/hibernate/orm/hibernate-core/6.1.5.Final/hibernate-core-6.1.5.Final.jar;C:/Users/User/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.0.0/jakarta.persistence-api-3.0.0.jar;C:/Users/User/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.0/jakarta.transaction-api-2.0.0.jar;C:/Users/User/.m2/repository/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar;C:/Users/User/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+22
+-sourcepath
+'C:/Users/User/Desktop/cenaflixStreaming/cenaflixOne/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/User/Desktop/cenaflixStreaming/cenaflixOne/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'cenaflixOne 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'cenaflixOne 1.0-SNAPSHOT API'
